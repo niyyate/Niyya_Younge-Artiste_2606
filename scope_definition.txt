@@ -1,13 +1,15 @@
 What information system is being proposed to be designed?
 	Transaction Processing System
+	
 Describe why the company needs it and why the company would be better off after it is in place.
-  A transaction processing system would be the best because the system would need to be up at all times. The nature of the system requires a set of steps to complete the transaction. 
-•	High data availability  
-•	High data integrity 
-a.	Normalization 
-b.	Changes on a regular basis 
-
-
+	A transaction processing system would be the best because the system would need to be up at all times. The nature of the system 	requires a set of steps to complete the transaction. The users would require high data availability and high data integrity. The
+	systems has to be able to support regular changes. The current system is a managment information system.
+	
 Provide an estimate of how long it will take to design, implement, and install it.
+	The code has already been written for the system but it will have to be redesigned. The databases have to be made more secure. The         systems have to be implemented and installed at all of the kioski locations. 
+	
+	The redesign will be allocated 3 months, the implementaion should be given that same time or the even double so 6 months, and 		installation to the main office with deplyment to kiosks could take a week. 
+		
 Provide an estimate of how much will the system design, implementation, and installation cost?
+
 Provide an estimate of how many people will be needed to carry out everything?
