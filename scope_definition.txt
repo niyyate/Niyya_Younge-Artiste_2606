@@ -7,12 +7,43 @@ Describe why the company needs it and why the company would be better off after 
 	systems has to be able to support regular changes. The current system is a managment information system.
 	
 Provide an estimate of how long it will take to design, implement, and install it.
-	The code has already been written for the system but it will have to be redesigned. The databases have to be made more secure. The         systems have to be implemented and installed at all of the kiosk locations. 
+	The code has already been written for the system but it will have to be redesigned. The databases have to be made more secure. 		The systems have to be implemented and installed at all of the kiosk locations. 
 
+
+	The redesign will be split up in to 3 phases where the last two happen simultaneously.
+		Building 
+		Database Integration 
+		Graphic Design 
+
+	Each system requirement will be given a minimum of 1 week to be modified/completed by the builders.
 	
+	12 * 2 = 24 weeks 
+
+	Database Integration would start after the first 3 weeks and would last for a .5 weeks per systems requirement
+	
+	12 * .5 = 6 weeks 
+	
+	Graphic Design will be given begin in the 12th week of the project. They well be given 2 weeks per user interface panel
+	Client interface 
+	Supplier interface
+	Administrative interface 
+	Company Operations interface
+	
+	8 weeks (2 weeks more that Database Inegration)
+	 
+	 Design and Implementaion Total Weeks = 24 + 6 + 2 = 32
+
 		
 Provide an estimate of how much will the system design, implementation, and installation cost?
-	35 dollar and hour for each builder.
+
+	Sytemes Analysis - $24 - $39 hourly 
+		2 Senior ((40hr work week * $39 hourly = 1560) * 32 weeks = $49,920)
+	Programmer - $24 - $37 hourly 
+	Database Admin -  $22 - $38 hourly 
+	Graphic Design - $19 - $32 hourly 
+	
+	
+	
 	30% of builder cost for fees.
 
 Provide an estimate of how many people will be needed to carry out everything?
