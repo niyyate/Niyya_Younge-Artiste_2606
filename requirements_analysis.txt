@@ -1,9 +1,34 @@
 Describe between two and four functional requirements that will fulfill the needs of clients.
 
+	buy book
+	search books in systems
+	check accouct history
+	
+
 Describe between two and four functional requirements that will fulfill the needs of suppliers.
+
+	School/ Student Access
+		put books for sale
+		check how many people have viewed their item
+		increase/decrease price
+		check account history
+	School Access 
+		renting book 
+		
 
 Describe between two and four functional requirements that will help someone administer the proposed
 information system.
-
+	
+	Create user 
+	Modify User Accounts (Schools vs Students)
+	Delete account
+	
+	
 Describe between two and four functional requirements that will help analyze the quality of the company’s
 operations and inform strategic decisions. (NB: a minimum of twelve total functional requirements must be specified.)
+	
+	Performacce for each kioski 
+	Monthy in take
+	Most popular book per school 
+	
+	
