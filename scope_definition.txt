@@ -15,43 +15,58 @@ Provide an estimate of how long it will take to design, implement, and install i
 		Database Integration 
 		Graphic Design 
 
-	Each system requirement will be given a minimum of 1 week to be modified/completed by the builders.
+	Each system requirement will be given about of 2 week to be modified/completed by the builders.
 	
 	12 * 2 = 24 weeks 
 
-	Database Integration would start after the first 3 weeks and would last for a .5 weeks per systems requirement
+	Database Integration would start after the first 12 weeks and would last for a 2 weeks per systems requirement
 	
-	12 * .5 = 6 weeks 
+	12 * 1.5 = 18 weeks 
 	
-	Graphic Design will be given begin in the 12th week of the project. They well be given 2 weeks per user interface panel
+	Graphic Design will be given begin in the 24th week of the project. They well be given 2 weeks per user interface panel
 	Client interface 
 	Supplier interface
 	Administrative interface 
 	Company Operations interface
 	
-	8 weeks (2 weeks more that Database Inegration)
-	 
-	 Design and Implementaion Total Weeks = 24 + 6 + 2 = 32
+	8 weeks 
+	
+	Design and Implementaion Total Weeks = 32 weeks
+
+	1 month would be given for implementation and installation 
+	
+	Total Weeks 32 + 4 = 36
 
 		
 Provide an estimate of how much will the system design, implementation, and installation cost?
 
 	Sytemes Analysis - $24 - $39 hourly 
-		2 Senior ((40hr work week * $39 hourly = 1560) * 32 weeks = $49,920)
+		1 Senior (40hr work week * $39 hourly = 1560) * 36 weeks = $56,160
+		
 	Programmer - $24 - $37 hourly 
+		2 Junior (40hr work week * $24 hourly = 960) * 24 weeks = 23,040 * 2 = $46,080
+		1 Senior (40hr work week * $37 hourly = 1560) * 24 weeks = $37,440
+		
 	Database Admin -  $22 - $38 hourly 
+		1 Junior (40hr work week * $22 hourly = 880) * 18 weeks = $15,840
+		2 Senior (40hr work week * $38 hourly = 1520) * 18 weeks = $27,360 * 2  = $54,720
+		
 	Graphic Design - $19 - $32 hourly 
+		2 Junior (40hr work week * $19 hourly = 760) * 8 weeks = 6,080 * 2 = $12,160
+		1 Senior (40hr work week * $32 hourly = 1280) * 8 weeks = $10,240	
 	
 	
+	Total Salary = $232,640
+	30% of fees = $69,792
 	
-	30% of builder cost for fees.
+	Total Cost - $302,432
 
 Provide an estimate of how many people will be needed to carry out everything?
-	4 different types of skill sets needed
-		Sytemes Analyis
+	4 different types of skill sets neededn 
+		Sytemes Analysis
 		Programmer 
 		Database Admin
-		Graphic Desin
+		Graphic Design
 	3 people per skill set 
-		One or two senior team members and at least one junior member 	
+		1 person Systems Analysis and One or two senior team members and at least one junior member 	
 	12 people total people 
