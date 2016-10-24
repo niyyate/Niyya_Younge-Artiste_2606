@@ -1,0 +1,5 @@
+Estimate the technical feasibility of the proposed system.
+Estimate the operational feasibility of the proposed system.
+Estimate the economic feasibility of the proposed system.
+Estimate the schedule feasibility of the proposed system.
+Do these feasibility estimates describe a system which corresponds to that described in the scope definition?
