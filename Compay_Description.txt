@@ -61,4 +61,4 @@ Identify who the clients are of your company's business?
 	Students buying books are clients
 
 Who are your company's suppliers?
-	Students/School libraries who are selling books are the suppliers 
+	Students/School libraries who are selling books are the suppliers
