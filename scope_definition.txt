@@ -69,4 +69,4 @@ Provide an estimate of how many people will be needed to carry out everything?
 		Graphic Design
 	3 people per skill set 
 		1 person Systems Analysis and One or two senior team members and at least one junior member 	
-	12 people total people 
+	12 people total people. 
