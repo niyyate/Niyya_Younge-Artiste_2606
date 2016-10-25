@@ -1,6 +1,7 @@
 Describe between two and four functional requirements that will fulfill the needs of clients.
 
-	Clients need to be able to create themselfs as a user, process the "buy book" command. They would need to have the ability to 		search for books available for purchase. The client should also be able to see their prevous transactions.
+	Clients need to be able to create themselfs as a user, process the "buy book" command. They would need to have the ability
+	to search for books available for purchase. The client should also be able to see their prevous transactions.
 	
 	buy book
 	search books in systems
@@ -27,7 +28,8 @@ Describe between two and four functional requirements that will fulfill the need
 Describe between two and four functional requirements that will help someone administer the proposed
 information system.
 	
-	This type of user will have admit rights over all the other user accounts. They will need to validate a account, modify user 		accounts, have the power to fully delete accounts, and process refunds. 
+	This type of user will have admit rights over all the other user accounts. They will need to validate a account, modify user
+	accounts, have the power to fully delete accounts, and process refunds. 
 	
 	Validate user 
 	Modify User Accounts (Schools vs Students)
@@ -38,7 +40,8 @@ information system.
 Describe between two and four functional requirements that will help analyze the quality of the company’s
 operations and inform strategic decisions. (NB: a minimum of twelve total functional requirements must be specified.)
 	
-	These higher level users need to see the performance for each kioski, a spread sheet of sales, a spead sheet of the most popular 	books at each school.
+	These higher level users need to see the performance for each kioski, a spread sheet of sales, a spead sheet of the most popular
+	books at each school.
 	
 	Performacce for each kioski 
 	Monthy intake
