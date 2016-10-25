@@ -1,5 +1,7 @@
 Describe between two and four functional requirements that will fulfill the needs of clients.
 
+	Clients need to be able to create themselfs as a user, process the "buy book" command. They would need to have the ability to 		search for books available for purchase. The client should also be able to see their prevous transactions.
+	
 	buy book
 	search books in systems
 	check accouct history
@@ -7,6 +9,12 @@ Describe between two and four functional requirements that will fulfill the need
 
 Describe between two and four functional requirements that will fulfill the needs of suppliers.
 
+	There will be two types of accounts a University account and a Student account.
+	
+	Both accounts will need access to a sale option, a view counter, an ability to increase/decrease price and account history.
+	
+	The University account has the renting option in conjunction with the other accesses.
+	
 	School/ Student Access
 		put books for sale
 		check how many people have viewed their item
@@ -19,16 +27,21 @@ Describe between two and four functional requirements that will fulfill the need
 Describe between two and four functional requirements that will help someone administer the proposed
 information system.
 	
-	Create user 
+	This type of user will have admit rights over all the other user accounts. They will need to validate a account, modify user 		accounts, have the power to fully delete accounts, and process refunds. 
+	
+	Validate user 
 	Modify User Accounts (Schools vs Students)
 	Delete account
+	Process Refund
 	
 	
 Describe between two and four functional requirements that will help analyze the quality of the company’s
 operations and inform strategic decisions. (NB: a minimum of twelve total functional requirements must be specified.)
 	
+	These higher level users need to see the performance for each kioski, a spread sheet of sales, a spead sheet of the most popular 	books at each school.
+	
 	Performacce for each kioski 
-	Monthy in take
+	Monthy intake
 	Most popular book per school 
 	
 	
