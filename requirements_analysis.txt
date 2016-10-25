@@ -45,6 +45,6 @@ operations and inform strategic decisions. (NB: a minimum of twelve total functi
 	
 	Performacce for each kioski 
 	Monthy intake
-	Most popular book per school 
+	Most popular book per school
 	
 	
