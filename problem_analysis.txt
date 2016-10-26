@@ -24,5 +24,5 @@ improvement objectives are.
   By making the user creation automatic the system will be more stream line for the admin's. The user creation process will run faster and
   in turn that will mean more time for users to process transactions.
 
-  By giving users access to modify or remove a book from the kiosk with out calling will help the user complete transactions faster and in 
+  By giving users access to modify or remove a book from the kiosk with out calling will help the user complete transactions faster and in
   turn increase sales 
