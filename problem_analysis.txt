@@ -2,12 +2,27 @@ Envision the way the company does business now, i.e. before this system is in pl
 preexisting situation, list at least five problems with the current state of affairs that would be solved or improved
 by the proposed system.
 
-The current system in place doesn't have any user interface, has no transaction tracking, only students are able to use the system, users have to request and account and be manualy created and to modify or remove a book from the kiosk the user had to call the main office.    
+  The current system in place doesn't have any user interface, has no transaction tracking, only students are able to use the system, 
+  users have to request and account and be manualy created and to modify or remove a book from the kiosk the user had to call the main 
+  office.    
 
 
 
 For each problem, provide a system improvement objective that would be accomplished and that would be
 measurable in some objective way. Refer to our text for discussion of what good examples of system
 improvement objectives are.
-
 (quanitative: sales, user satisfaction, faster ect. )
+
+  By creating a user interface the client will be able to have a visusal component. This will elevate user satisfaction and allow for 
+  more trasnactions to be processed
+
+  By adding transaction tracking a uesr can see there history with the company which will lead to client satisfaction. This will also 
+  allow for coprehensive data about transactions.
+
+  By adding the University account type their will be an influx of sales, and account creations. 
+
+  By making the user creation automatic the system will be more stream line for the admin's. The user creation process will run faster and
+  in turn that will mean more time for users to process transactions.
+
+  By giving users access to modify or remove a book from the kiosk with out calling will help the user complete transactions faster and in 
+  turn increase sales 
