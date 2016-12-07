@@ -1,7 +1,6 @@
 Describe between two and four functional requirements that will fulfill the needs of clients.
 
-	Clients need to be able to create themselfs as a user, process the "buy book" command. They would need to have the ability
-	to search for books available for purchase. The client should also be able to see their prevous transactions.
+	Clients need to be able to create themselves as a user, process the "buy book" command. They would need to have the ability to search for books available for purchase. The client should also be able to see their prevous transactions.
 	
 	buy book
 	search books in systems

@@ -1,0 +1,101 @@
+Describe at least ten ways of testing the various functional requirements that the system provides. 
+
+Give a example the 3 different types 
+for 4 different requirements
+
+
+Create User 
+	Normal Case
+	1. Valid First Name 25 char
+	2. Valid Last Name 25 char
+	3. Valid Credit Card information 
+	4. Valid Phone number 10 num
+	
+	Edge Case
+	5. First Name 0 char 
+	6. First Name 1 char
+	7. First Name 25 char
+	8. First Name 26 char
+	9. Credit Card Number 16
+	10. Credit Card Number 17
+
+Search for book
+	Normal Case
+	1. Correct/Valid Book Name 
+	2. Correct/Valid Author 
+	3. Correct/Valid Class Name
+	4. Correct/Valid ISBN Number
+	
+	Edge Case
+	5. Wrong Book Name
+	6. Correct Book Name
+	7. Book Name 50 char
+	8. Book Name 51 char
+	9. Book Name 0 char
+	10. Book Name 1 char
+	
+
+buy book
+	Normal Case
+	Edge Case
+
+check account history
+	Normal Case
+	Edge Case
+
+Change account type 
+	Normal Case
+	Edge Case
+
+Put book in system
+	Normal Case
+	Edge Case
+
+Book View Count
+	Normal Case
+	Edge Case
+
+increase/decrease price
+	Normal Case
+	Edge Case
+
+Renting books
+	Normal Case
+	Edge Case
+
+Validate user 
+	Normal Cases
+	User is a college (properly Formed)
+	1. Uses college valid college email 
+		2. User validates in 24 hrs
+		3. User doesn't validate in 24hrs 
+	User is a student (properly Formed)
+	4.  Uses student valid college email 
+		5. User validates in 24 hrs
+		6. User doesn't validate in 24hrs 
+		Edge Case 
+		7. User is a college with valid college email 
+		8. User is a college improperly formed email
+		9. Uses student with valid college email 
+		10. User is a student  improperly formed email
+
+
+Delete account
+	Normal Case
+	Edge Case
+
+Process Refund
+	Normal Case
+	Edge Case
+
+Performance for each kiosk 
+	Normal Case
+	Edge Case
+
+Monthly intake
+	Normal Case
+	Edge Case
+
+Most popular book per school
+	Normal Case
+	Edge Case
