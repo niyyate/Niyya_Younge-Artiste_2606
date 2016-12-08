@@ -1,11 +1,9 @@
-//Each Functional Requirement should have 
-1. Method Name 
-2. Input parameters 
-3. Return Type
-ex. int place_order(int product_id, int quantity);
+//34. Provide the Java method signatures that correspond to functional requirements in the logical process model
+//previously provided. 
 
 void create_user(String userName, String password, String firstName, String lastName, String email, int phoneNumber);
-void add_Addr(String userName, String address_1, String address_2, String city, String state, int zip);void add_Billing(String userName, String b_Address_1, String b_Address_2, String b_City, String b_State, int b_Zip, int ccnum, int sec_code);
+void add_Addr(String userName, String address_1, String address_2, String city, String state, int zip);
+void add_Billing(String userName, String b_Address_1, String b_Address_2, String b_City, String b_State, int b_Zip, int ccnum, int sec_code);
 
 String validate(String userName, String userType){
 return userType;}
@@ -38,6 +36,8 @@ return kioskinfo;}
    
 String[] account_hist(String userName, String password){
 return new ValueHolder(transNum, bookNum)};   
+
+void process_refund(String username, String employeeNum, int price);
 
 
 
