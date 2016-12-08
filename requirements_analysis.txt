@@ -35,7 +35,6 @@ information system.
 	Delete account
 	Process Refund
 	
-	
 Describe between two and four functional requirements that will help analyze the quality of the company’s
 operations and inform strategic decisions. (NB: a minimum of twelve total functional requirements must be specified.)
 	
