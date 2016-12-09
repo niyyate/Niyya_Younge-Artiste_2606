@@ -4,6 +4,7 @@
 CREATE TABLE Books
 (
 Book_Name VARCHAR(50) NOT Null,
+Author Varchar(35) NOT NUll,
 Book_Number INT AUTO_INCREMENT NOT NULL,
 ISBN_Number VARCHAR(25) NOT Null,
 Usage_Type VARCHAR(10) NOT NULL,
@@ -21,12 +22,14 @@ FOREIGN KEY(Kiosk) REFERENCES Kiosk(Kiosk_Num)
 
 CREATE TABLE User_Accounts
 (
-Account_type VARCHAR(10) NOT NULL, 
+Account_type VARCHAR(10), 
+School VARCHAR(255) NOT NULL,
 Username VARCHAR(25) NOT NULL,
-First Name VARCHAR(25) NOT NULL,
-Last Name VARCHAR(25) NOT NULL,
+Password Varchar(10) Not Null,
+First_Name VARCHAR(25) NOT NULL,
+Last_Name VARCHAR(25) NOT NULL,
 Email VARCHAR(25) NOT NULL,
-Phone Number INT(10) NOT NULL,
+Phone_Number INT(10) NOT NULL,
 Address_1 VARCHAR(255) NOT NULL,
 Address_2 VARCHAR(255) NOT NULL,
 City VARCHAR(25) NOT NULL,
@@ -116,6 +119,7 @@ PRIMARY KEY(Account_Type)
 CREATE TABLE Usage_Type
 (
 Used_Condition VARCHAR(25)
+Usage_Num INT(1)
 );
 
 CREATE TABLE Refunds
