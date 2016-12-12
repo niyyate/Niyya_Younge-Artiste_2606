@@ -106,8 +106,7 @@ FOREIGN KEY(School_Name) REFERENCES Schools(School_Name)
 );
 
 CREATE TABLE Account_Types
-(
-Account_type VARCHAR(10) NOT NULL, 
+(Account_type VARCHAR(10) NOT NULL, 
 View_Profile BOOLEAN NOT NULL,
 Validate_User BOOLEAN NOT NULL
 Can_Rent BOOLEAN NOT NULL,
